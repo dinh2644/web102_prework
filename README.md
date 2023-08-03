@@ -25,10 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/NCb7eha' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![walkthrough](https://github.com/dinh2644/web102_prework/assets/82007933/a59ea92e-af7a-4eb5-8672-f0efbea960f7)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

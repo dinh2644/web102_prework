@@ -4,7 +4,6 @@
  * -> A function that deletes all child elements from a parent element in the DOM
 */
 
-
 // import the JSON data about the crowd funded games from the games.js file
 import GAMES_DATA from './games.js';
 

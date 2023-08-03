@@ -24,6 +24,7 @@ body {
     display: flex;
     align-items: center;
 }
+
 .stats-container {
     display: flex;
     align-items: center;
@@ -90,6 +91,7 @@ button {
     background-color: #1c2b39;
     color: white;
 }
+
 button:hover {
     background-color: #3a4f63;
 }
@@ -101,6 +103,7 @@ button:hover {
     padding: 10px;
   
 }
+
 .our-games-nav a{ 
     text-decoration: none;
     color: #1c2b39;
@@ -108,6 +111,7 @@ button:hover {
     padding: 5px 10px;
     border-radius: 5px;
 }
+
 .our-games-nav a:hover {
     color: white;
 }
